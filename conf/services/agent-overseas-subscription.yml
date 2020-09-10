@@ -4,19 +4,19 @@ serviceDescription: |
   This service lets you finish setting up your agent services account, if your agent business is based outside the UK and HMRC has approved your application.
 serviceDomain: www.tax.service.gov.uk
 serviceUrl: /agent-services/apply-from-outside-uk/create-account
-#contactFrontendServiceId: cupcakes
+contactFrontendServiceId: cupcakes
 complianceStatus: partial
-#accessibilityProblems:
-#  -
-#milestones:
-#  - description:
-  #    date: 2020-07-31
-#  - description:
-  #    date: 2020-03-31
-#  - description:
-  #    date: 2020-03-31
-#  - description:
-#    date: 2020-03-31
+accessibilityProblems:
+  -
+milestones:
+  - description:
+      date: 2020-07-31
+  - description:
+      date: 2020-03-31
+  - description:
+      date: 2020-03-31
+  - description:
+    date: 2020-03-31
 serviceLastTestedDate: 2019-8-22
 statementVisibility: draft
 statementCreatedDate: 2019-09-23
