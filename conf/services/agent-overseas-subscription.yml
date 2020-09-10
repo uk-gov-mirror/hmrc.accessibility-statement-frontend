@@ -7,16 +7,14 @@ serviceUrl: /agent-services/apply-from-outside-uk/create-account
 contactFrontendServiceId: cupcakes
 complianceStatus: partial
 accessibilityProblems:
-  -
+  - This is one example accessibility problem
+  - This is a second one, they can go over multiple lines
+    like this
+  - This is a third accessibility problem
 milestones:
-  - description:
-      date: 2020-07-31
-  - description:
-      date: 2020-03-31
-  - description:
-      date: 2020-03-31
-  - description:
-    date: 2020-03-31
+  - description: |
+      Description of a first milestone to fix.
+    date: 2021-07-30
 serviceLastTestedDate: 2019-8-22
 statementVisibility: draft
 statementCreatedDate: 2019-09-23
